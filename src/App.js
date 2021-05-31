@@ -6,9 +6,10 @@ function App() {
     <div className="wrapper">
       <header className="App-header">
         <section className="section parallax bg1"></section>
-        <section className="section static">
-          <h1>Cities Consultancy</h1>
-        </section>
+        <section className="section divider"></section>
+        {/* <section className="section static left caption">
+          <p>Provide narrative & context with captions</p>
+        </section> */}
         <section className="section parallax bg2"></section>
       </header>
     </div>
